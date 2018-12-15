@@ -22,7 +22,7 @@
     </build>
 
     <dependencies>
-    	<!--https://github.com/perwendel/spark#spark---a-tiny-web-framework-for-java-8-->
+    	<!--https://github.com/perwendel/spark-->
         <dependency>
             <groupId>com.sparkjava</groupId>
             <artifactId>spark-core</artifactId>
