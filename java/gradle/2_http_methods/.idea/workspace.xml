@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39c75b1b-96ea-426d-9266-0c89ea6f2351" name="Default Changelist" comment="" />
+    <list default="true" id="39c75b1b-96ea-426d-9266-0c89ea6f2351" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../kotlin/gradle/2_http_methods/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../kotlin/gradle/2_http_methods/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -20,6 +22,7 @@
     <session id="-628900665">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -54,20 +57,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="108" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="108" selection-end-column="5" />
+            <state relative-caret-position="195">
+              <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="448">
+              <caret line="16" column="78" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -389,8 +392,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1970" />
-    <option name="y" value="64" />
+    <option name="x" value="130" />
+    <option name="y" value="74" />
     <option name="width" value="1665" />
     <option name="height" value="922" />
   </component>
@@ -453,7 +456,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544892056051" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544892718960" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -501,7 +504,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1970" y="64" width="1665" height="922" extended-state="0" />
+    <frame x="130" y="74" width="1665" height="922" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -537,17 +540,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="195">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Main.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="108" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="108" selection-end-column="5" />
+        <state relative-caret-position="448">
+          <caret line="16" column="78" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="78" />
         </state>
       </provider>
     </entry>

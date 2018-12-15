@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>helloworld</groupId>
-    <artifactId>helloworld</artifactId>
+    <groupId>methodshttp</groupId>
+    <artifactId>methodshttp</artifactId>
     <version>1.0</version>
 
     <properties>
@@ -14,7 +14,7 @@
     </properties>
 
     <dependencies>
-    	<!--https://github.com/perwendel/spark-kotlin#dependency-->
+        <!--https://github.com/perwendel/spark-kotlin#dependency-->
         <dependency>
             <groupId>com.sparkjava</groupId>
             <artifactId>spark-kotlin</artifactId>
