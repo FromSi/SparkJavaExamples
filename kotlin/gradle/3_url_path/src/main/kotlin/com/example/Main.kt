@@ -15,7 +15,7 @@ fun main() {
     /**
      * [:name] - пользовательский динамический путь в URL-пути.
      */
-    get("/hello/:name") { "Hello: " + params(":name") }
+    get("/hello/:name") { "Hello: ${params(":name")}" }
 
     /**
      * Некий массив URL-путей.
@@ -27,5 +27,5 @@ fun main() {
      * splat()!![0] => ответ нулевого элемента будет "one"
      * splat()!![1] => ответ первого элемента будет "two"
      */
-    get("/say/*/to/*") { "Number of splat parameters: " + splat()?.size }
+    get("/say/*/to/*") { "Number of splat parameters: ${splat()?.size}" }
 }

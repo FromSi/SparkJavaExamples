@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cf977bb-6fb7-44c5-aa64-ebf25ed0de03" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../3_url_path/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_url_path/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8cf977bb-6fb7-44c5-aa64-ebf25ed0de03" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -22,7 +20,7 @@
     <session id="-752612640">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -60,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="99" column="5" lean-forward="true" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
+            <state relative-caret-position="619">
+              <caret line="99" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="99" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -446,7 +444,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544956927016" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544958189496" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -494,10 +492,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="158" width="1665" height="922" extended-state="0" />
+    <frame x="2071" y="49" width="1438" height="940" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25696594" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29899135" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -539,8 +537,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="99" column="5" lean-forward="true" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
+        <state relative-caret-position="619">
+          <caret line="99" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="99" selection-end-column="5" />
         </state>
       </provider>
     </entry>
