@@ -20,11 +20,12 @@
     <session id="-752612640">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -58,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="619">
-              <caret line="99" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="99" selection-end-column="5" />
+            <state relative-caret-position="227">
+              <caret line="85" column="34" selection-start-line="85" selection-start-column="34" selection-end-line="85" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -380,8 +381,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2071" />
-    <option name="y" value="49" />
+    <option name="x" value="186" />
+    <option name="y" value="73" />
     <option name="width" value="1438" />
     <option name="height" value="940" />
   </component>
@@ -492,10 +493,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2071" y="49" width="1438" height="940" extended-state="0" />
+    <frame x="186" y="73" width="1438" height="940" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29899135" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3040346" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -537,8 +538,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="619">
-          <caret line="99" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="99" selection-end-column="5" />
+        <state relative-caret-position="227">
+          <caret line="85" column="34" selection-start-line="85" selection-start-column="34" selection-end-line="85" selection-end-column="34" />
         </state>
       </provider>
     </entry>
